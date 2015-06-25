@@ -17,21 +17,20 @@ By the end of this session, you should be able to:
 
 # Activity: Goal Setting as individuals
 Directions: On your index card answer the following questions. When you are done put it in the envelope and seal it. Write your name on the front
-	+	What are your goals for these next three weeks?
-	+	What do you want to accomplish? What do you want to be proud of?
++	What are your goals for these next three weeks?
++	What do you want to accomplish? What do you want to be proud of?
 
 
 #What you expect from each other and yourselves:
-	+	To be a learner and a teacher: we are all here to learn. If we knew everything already, we wouldn't be here. If you know something, that's a chance to teach, not to be smug or superior.
-	+ Embracing failure: Things will be hard. We'll move very fast, from zero to full stack web development in three short weeks. Things will break, there will be bugs, and we will smile and ask for help.
++	To be a learner and a teacher: we are all here to learn. If we knew everything already, we wouldn't be here. If you know something, that's a chance to teach, not to be smug or superior.
++ Embracing failure: Things will be hard. We'll move very fast, from zero to full stack web development in three short weeks. Things will break, there will be bugs, and we will smile and ask for help.
 
 #What you expect of us:
-
-		+	Respect and patience
-		+	Create a supportive learning environment
-    + Celebrate Questions
-    + Provide tools to face difficult challenges
-    + Receive and respond to feedback
++	Respect and patience
++	Create a supportive learning environment
++ Celebrate Questions
++ Provide tools to face difficult challenges
++ Receive and respond to feedback
 
 #Agenda for the week
 You've got a schedule and can see the Google Calendar, and that covers everything, from meal times to events to when the shuttle will pick you up and drop you off. Here's the overview for the next two weeks:
