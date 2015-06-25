@@ -1,4 +1,3 @@
-# cssi-1.1-intro-cssi
 ---
 tags: cssi, basic html
 level: 1
