@@ -35,3 +35,5 @@ You've got a schedule and can see the Google Calendar, and that covers everythin
 +	Day 2-5: Javascript and Python
 +	Day 6-10: App Engine
 +	Days 11-15: Group Projects
+
+<a href='https://learn.co/lessons/cssi-1.1-intro-cssi' data-visibility='hidden'>View this lesson on Learn.co</a>
