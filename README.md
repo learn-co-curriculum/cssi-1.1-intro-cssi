@@ -36,4 +36,4 @@ You've got a schedule and can see the Google Calendar, and that covers everythin
 +	Day 6-10: App Engine
 +	Days 11-15: Group Projects
 
-<a href='https://learn.co/lessons/cssi-1.1-intro-cssi' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-1.1-intro-cssi' title='Intro to CSSI'>Intro to CSSI</a> on Learn.co and start learning to code for free.</p>
